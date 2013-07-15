@@ -1,0 +1,21 @@
+{
+  "name": "tdd_angular",
+  "version": "0.0.1",
+  "description": "TDD with angular.js",
+  "main": "index.js",
+  "author": "Carl Letourneau",
+  "devDependencies": {
+    "bower": "~0.10.0",
+    "coffee-script": "~1.6.3",
+    "karma": "~0.8.6",
+    "grunt": "~0.4.1",
+    "grunt-cli": "~0.1.9",
+    "grunt-bower-task": "~0.2.3",
+    "grunt-contrib-jade": "~0.7.0",
+    "grunt-contrib-coffee": "~0.7.0",
+    "grunt-contrib-watch": "~0.4.4",
+    "grunt-contrib-copy": "~0.4.1",
+    "grunt-contrib-clean": "~0.4.1",
+    "grunt-contrib-concat": "~0.3.0"
+  }
+}

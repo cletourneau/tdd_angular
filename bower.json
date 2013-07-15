@@ -1,0 +1,23 @@
+{
+  "name": "tdd_angular",
+  "version": "0.0.1",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "components",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "~2.0.3",
+    "bootstrap": "~2.3.2",
+    "angular": "~1.0.7"
+  },
+  "devDependencies": {
+    "jasmine-jquery": "~1.5.3",
+    "angular-mocks": "~1.0.7",
+    "sinon": "~1.7.3",
+    "jasmine-sinon": "~0.1.0"
+  }
+}

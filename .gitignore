@@ -1,0 +1,7 @@
+node_modules/
+components/
+bower_components/
+vendor/
+src/js/
+.idea/
+libpeerconnection.log
